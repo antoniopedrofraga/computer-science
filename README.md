@@ -1,12 +1,7 @@
 # Computer Science
 
-This page contains *"under the hood"*  explanations of theoretical concepts of subjects like **Algorithms**, **Data Structures**, **UNIX Operating Systems** and **Computer Networks** (etc...). Several [coding problems](./coding-problems/) were also studied and solved, always including a time and memory complexity analysis. 
+This page contains *"under the hood"*  explanations of theoretical concepts of subjects like **Algorithms**, **Data Structures**, **UNIX Operating Systems** and **Computer Networks** (etc...). Several [coding problems](./coding-problems/leetcode/) were also studied and solved, always including a time and memory complexity analysis. 
 <br>
-<div>
-<p align="center">
-  <i>For those who want to have a better understanding on computer science</i>
-</p>
-</div> 
 
 ## Index
 
